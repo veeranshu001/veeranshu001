@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @veeranshu001
 - 👀 I’m interested in fb loader
 - 🌱 I’m currently learning making loader
-- 💞️ I’m looking to collaborate on fb
 - 📫 How to reach me https://facebook.com/nadan.brahman
 - 
 
